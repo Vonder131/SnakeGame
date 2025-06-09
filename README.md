@@ -2,9 +2,15 @@
 
 This is my first C++ project created for educational purpose
 
+## Warning!!
+
+This project contains bad code. If you're sensitive to that please look away
+
+It was meant to work (sometimes it doesn't) not to be efficient or expandable
+
 ## Building the project
 
-The project contains a CMakeLists.txt file for the build
+If for some reasons you want to build this yourself, the project contains a CMakeLists.txt file
 
 It was created directly in VisualStudio
 

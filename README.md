@@ -2,7 +2,7 @@
 
 This is my first C++ project created for educational purpose
 
-## Warning!!
+## !!Warning!!
 
 This project contains bad code. If you're sensitive to that please look away
 
@@ -16,6 +16,6 @@ It was created directly in VisualStudio
 
 ## Platforms
 
-It only woks on windows because it's using <windows.h> library
+It only woks on windows because of the usage of <windows.h> library
 
 A cross-platform version won't be available in the future :)

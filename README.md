@@ -10,7 +10,7 @@ It was meant to work (sometimes it doesn't) not to be efficient or expandable
 
 ## Building the project
 
-If for some reasons you want to build this yourself, the project contains a CMakeLists.txt file
+The commit was done from VS directly. If for some reasons you want to build this yourself, the project contains a CMakeLists.txt file (if you know how to used it :) )
 
 It was created directly in VisualStudio
 
